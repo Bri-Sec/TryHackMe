@@ -1,25 +1,25 @@
-# PROJECTNAME
+# TryHackMe
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+During my master's degree I noticed a lack of practical experience, TryHackMe rooms seemed like a good way to get beginner hands-on practical experience in several different topics. For this reason I completed several different types of rooms. Namely, rooms related to my course material to get a deeper understanding of the course material, rooms in the learning roadmap since these were recommended and rooms that I thought looked fun and interesting and I wanted to personally know more about.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Networking fundamentals (IP, DNS, HTTP/S)
+- Basic web technologies (HTML, JavaScript, forms)
+- In-depth Nmap scanning and enumeration
+- Exploitation using Metasploit and manual techniques
+- Privilege escalation (Windows & Linux)
+- Post-exploitation and persistence
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+<img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=Nmap&logoColor=white" /> — used for network scanning, host discovery, and service enumeration. <br>
+<img src="https://img.shields.io/badge/-Burp_Suite-FF5733?&style=for-the-badge&logo=burpsuite&logoColor=white" /> — utilized for web application testing, intercepting traffic, and identifying vulnerabilities. <br>
+<img src="https://img.shields.io/badge/-Metasploit-50748C?&style=for-the-badge&logo=metasploit&logoColor=white" /> — employed for exploit development, payload generation, and post-exploitation activities. <br>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> — used to capture and analyze network packets for traffic inspection and protocol understanding. <br>
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
