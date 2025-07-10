@@ -2,7 +2,7 @@
 
 ## Objective
 
-During my master's degree I noticed a lack of practical experience, TryHackMe rooms seemed like a good way to get beginner hands-on practical experience in several different topics. For this reason I completed several different types of rooms. Namely, rooms related to my course material to get a deeper understanding of the course material, rooms in the learning roadmap since these were recommended and rooms that I thought looked fun and interesting and I wanted to personally know more about.
+During my master's degree I noticed a lack of practical experience, TryHackMe rooms seemed like a good way to get beginner hands-on practical experience in several different topics. For this reason I completed several different types of rooms. Namely, rooms related to my course material to get a deeper understanding of the course material, rooms in the learning roadmap since these were recommended and rooms that I thought looked fun and interesting and I wanted to personally know more about. Recently haven't touched it as much as I want to but will get back into it after completing my other projects.
 
 ### Skills Learned
 
@@ -22,10 +22,6 @@ During my master's degree I noticed a lack of practical experience, TryHackMe ro
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> — used to capture and analyze network packets for traffic inspection and protocol understanding. <br>
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<img src="https://tryhackme-badges.s3.amazonaws.com/Brias.png" alt="Your Image Badge" /> <br>
+*Ref 1: My TryHackMe Badge*
